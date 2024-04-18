@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mx.utng.s29.Ejercicio2Tests" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-04-04T21:35:54" hostname="LEO" time="0.046">
+  <properties/>
+  <testcase name="Cuadrados" classname="mx.utng.s29.Ejercicio2Tests" time="0.04"/>
+  <testcase name="Negativos" classname="mx.utng.s29.Ejercicio2Tests" time="0.001"/>
+  <testcase name="Tranformar y sumar" classname="mx.utng.s29.Ejercicio2Tests" time="0.004"/>
+  <system-out><![CDATA[5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
