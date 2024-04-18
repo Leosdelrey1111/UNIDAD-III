@@ -1,0 +1,15 @@
+plugins{
+    id 'java'    
+}
+task mundo{
+    doLast{
+        println("world!!")
+    }
+}
+
+jar{
+    manifest{
+        attributes 'Main-Class': 'mx.utng.retoSesion19.SumaPrimerosNumeros'
+    }
+}
+
